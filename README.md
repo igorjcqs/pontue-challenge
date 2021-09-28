@@ -5,20 +5,20 @@ O desafio é construir uma API simples em Laravel (PHP) que permite Criar, Ler, 
 Desafio bônus (opcional): Fazer com que a API funcione apenas para usuário logados (autenticados).
 
 ## Objetivos:
-- Ter um ending point para cada operação (CRUD);
-- Utilizar um banco de dados para armazenar os dados;
-- Exibir dados retornados de forma organizada;
-- Ter um README para explicar como rodar o projeto;
-- Construir coleção do POSTMAN para testes;
-- Funcionalidades de resetar senha e trocar senha;
-- Fazer testes automatizados utilizando PHPUnit;
-- Utilizar Docker para rodar o sistema;
+- Ter um ending point para cada operação (CRUD); - Concluído ✔️
+- Utilizar um banco de dados para armazenar os dados; - Concluído ✔️
+- Exibir dados retornados de forma organizada; - Concluído ✔️
+- Ter um README para explicar como rodar o projeto; - Concluído ✔️
+- Construir coleção do POSTMAN para testes; - Concluído ✔️
+- Funcionalidades de resetar senha e trocar senha; - Concluído ✔️
+- Fazer testes automatizados utilizando PHPUnit; - Parcialmente concluído ❓
+- Utilizar Docker para rodar o sistema; - Concluído ✔️
 
 Objetivos concluídos: todos.
 
 ## Sobre o desenvolvimento
 
-Api desenvolvida em um ambiente Docker, através de um ambiente de desenvolvimento pré configurado e criado pela comunidade Laravel chamado [Laradock](https://github.com/laradock/laradock).
+Api desenvolvida em um ambiente Docker, através de um ambiente de desenvolvimento criado pela comunidade Laravel chamado [Laradock](https://github.com/laradock/laradock) e testada através do Postman, que é um API client que permite testar requisições HTTP e HTTPs.
 
 #### Tecnologias, softwares e ferramentas utilizadas:
 - [PHP 8.0](https://www.php.net/releases/8.0/en.php)
@@ -27,6 +27,7 @@ Api desenvolvida em um ambiente Docker, através de um ambiente de desenvolvimen
 - [MySQL](https://www.mysql.com/)
 - [Phpmyadmin](https://www.phpmyadmin.net/)
 - [Docker](https://www.docker.com/)
+- [Postman](https://www.postman.com/)
 
 ## Como testar a api?
 
