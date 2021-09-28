@@ -20,7 +20,7 @@ Objetivos concluídos: todos.
 
 Api desenvolvida em um ambiente Docker, através de um ambiente de desenvolvimento pré configurado e criado pela comunidade Laravel chamado [Laradock](https://github.com/laradock/laradock).
 
-##Tecnologias, softwares e ferramentas utilizadas:
+#### Tecnologias, softwares e ferramentas utilizadas:
 - [PHP 8.0](https://www.php.net/releases/8.0/en.php)
 - [Laravel 8.0](https://laravel.com/docs/8.x/releases)
 - [Nginx](https://www.nginx.com/)
