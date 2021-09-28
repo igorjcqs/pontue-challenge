@@ -57,7 +57,7 @@ aa
 
 - 14 - Pronto! O projeto já está rodando em um ambiente docker e você poderá acessar pelo link: https://localhost:PORTA_CONFIGURADA_NO_ENV
 
-- 15 - Baixe o Postman e importe a coleção (Pontue - Back-end Requests Collection - POSTMAN.json) de requests presentes no projeto.
+- 15 - Baixe o Postman e importe a coleção (Pontue - Backend Requests..postman_collection.json) de requests presentes no projeto.
 
 OBS¹: Para rodar corretamente é necessário ter o Docker Desktop instalado no computador.
 OBS²: Caso queira, você pode optar por trocar as tecnologias utilizadas.
