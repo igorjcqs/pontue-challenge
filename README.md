@@ -18,7 +18,7 @@ Objetivos concluídos: todos.
 
 ## Sobre o desenvolvimento
 
-aa
+Api desenvolvida em um ambiente Docker, através de um ambiente de desenvolvimento pré configurado chamado [Laradock](https://github.com/laradock/laradock)
 
 ## Como testar a api?
 
@@ -60,5 +60,7 @@ aa
 - 15 - Baixe o Postman e importe a coleção (Pontue - Backend Requests..postman_collection.json) de requests presentes no projeto.
 
 OBS¹: Para rodar corretamente é necessário ter o Docker Desktop instalado no computador.
+
 OBS²: Caso queira, você pode optar por trocar as tecnologias utilizadas.
+
 OBS³: A primeira vez que você rodar o comando "docker-compose", provavelmente irá levar um tempo, pois irá baixar todas as depedências necessárias.
