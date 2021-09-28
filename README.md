@@ -18,7 +18,15 @@ Objetivos concluídos: todos.
 
 ## Sobre o desenvolvimento
 
-Api desenvolvida em um ambiente Docker, através de um ambiente de desenvolvimento pré configurado chamado [Laradock](https://github.com/laradock/laradock)
+Api desenvolvida em um ambiente Docker, através de um ambiente de desenvolvimento pré configurado e criado pela comunidade Laravel chamado [Laradock](https://github.com/laradock/laradock).
+
+##Tecnologias, softwares e ferramentas utilizadas:
+- [PHP 8.0](https://www.php.net/releases/8.0/en.php)
+- [Laravel 8.0](https://laravel.com/docs/8.x/releases)
+- [Nginx](https://www.nginx.com/)
+- [MySQL](https://www.mysql.com/)
+- [Phpmyadmin](https://www.phpmyadmin.net/)
+- [Docker](https://www.docker.com/)
 
 ## Como testar a api?
 
@@ -59,7 +67,7 @@ Api desenvolvida em um ambiente Docker, através de um ambiente de desenvolvimen
 
 - 15 - Baixe o Postman e importe a coleção (Pontue - Backend Requests..postman_collection.json) de requests presentes no projeto.
 
-OBS¹: Para rodar corretamente é necessário ter o Docker Desktop instalado no computador.
+OBS¹: Para rodar corretamente é necessário ter o [Docker Desktop](https://www.docker.com/get-started) instalado no computador.
 
 OBS²: Caso queira, você pode optar por trocar as tecnologias utilizadas.
 
