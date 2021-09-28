@@ -11,6 +11,8 @@ use Tests\TestCase;
 
 class AuthenticationTest extends TestCase
 {
+    /* Não deu tempo de fazer todas <3 */
+    
     /** @test */
     public function check_if_user_column_is_correct()
     {
